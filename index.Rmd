@@ -33,8 +33,8 @@ output:
 
 <p style="color:white">I’m Hun, my hometown is Busan in South Korea.</p>
 
-<p style="color:white">I am currently enrolled in the program of biostatistics in the Mailman School of Public Health at Columbia University. I earned my B.S. in statistics from University of California, Davis.</p> 
+<p style="color:white">I am currently pursuing a Ph.D. program of statistics at Columbia University. I earned my M.S. in biostatistics from Columbia University and B.S. in statistics from University of California, Davis.</p> 
 
-<p style="color:white">I am interested in pursuing my career in research! My research and academic interests lie at the intersection of causal inference, semi-parametric inference, and Bayesian inference.</p>
+<p style="color:white">I am interested in pursuing my career in research! My research and academic interests lie at the intersection of survey weighting, Bayesian inference, bootstrap theory and resampling, and causal inference. </p>
 
-<p style="color:white">I am an inquisitive person motivated by faith, hope, love, and insight. I am also interested in soccer, baseball, cooking, mathematics, Fyodor Dostoyevsky books, and the books of the Bible.</p>
+<p style="color:white">I am an inquisitive person motivated by faith, hope, love, and insight. I am also interested in soccer, baseball, cooking, mathematics, the books of Fyodor Dostoyevsky, and the books of the Bible.</p>
