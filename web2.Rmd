@@ -38,4 +38,3 @@ output:
 <p style="color:white">I am interested in pursuing my career in research! My research and academic interests lie at the intersection of causal inference, semi-parametric inference, and Bayesian inference.</p>
 
 <p style="color:white">I am an inquisitive person motivated by faith, hope, love, and insight. I am also interested in soccer, baseball, cooking, mathematics, Fyodor Dostoyevsky books, and the books of the Bible.</p>
-
