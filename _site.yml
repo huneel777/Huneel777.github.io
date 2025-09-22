@@ -1,0 +1,29 @@
+name: ""
+output_dir: "."
+navbar:
+  title: ""
+  right:
+    - text: "Statistical Methods Blog"
+      menu:
+      - text: "Accepted_SSR_2025.pdf"
+        href: Accepted_SSR_2025.pdf
+      - text: "Accepted_IE_2024.pdf"
+        href: Accepted_IE_2024.pdf
+      - text: "Non-peer-reviewed-journal_Lee_2024.pdf"
+        href: Non-peer-reviewed-journal_Lee_2024.pdf
+      - text: "EIF_Causal_Mediation_Lee.pdf"
+        href: EIF_Causal_Mediation_Lee.pdf
+      - text: "DiD_Bayes_Lee_2025.pdf"
+        href: DiD_Bayes_Lee_2025.pdf
+      - text: "Weighting_Logit_Lee_2025.pdf"
+        href: Weighting_Logit_Lee_2025.pdf
+      - text: "Weighting_GP_Lee_2025.pdf"
+        href: Weighting_GP_Lee_2025.pdf
+      - text: "Superpopul_Bootstrap_Lee__2025.pdf"
+        href: Superpopul_Bootstrap_Lee__2025.pdf
+      - text: "Propensity Score Matching"
+        href: propensitiy_score_matching.pdf
+
+output:
+  html_document:
+    theme: sandstone

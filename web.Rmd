@@ -1,0 +1,41 @@
+---
+title: ""
+site: rmarkdown::website
+output: 
+  html_document:
+    css: "style.css"
+    toc: false
+    toc_float: true
+---
+
+<style>
+    body {
+    background: url('background.jpeg');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    }
+</style>
+
+<style>
+  img {width: 200px;
+       height: 200px;
+       object-fit: cover;
+       border-radius: 50%;
+      }
+</style>
+    
+<img src="profile_pic.jpeg" style="width:17%" Align = "left" HSPACE="10" VSPACE="20" />
+
+
+<p style="color:white">Welcome!</p>
+
+<p style="color:white">I’m Hun, my hometown is Busan in South Korea.</p>
+
+<p style="color:white">I am currently enrolled in the program of biostatistics in the Mailman School of Public Health at Columbia University. I earned my B.S. in statistics from University of California, Davis.</p> 
+
+<p style="color:white">I am interested in pursuing my career in research! My research and academic interests lie at the intersection of causal inference, semi-parametric inference, and Bayesian inference.</p>
+
+<p style="color:white">I am an inquisitive person motivated by faith, hope, love, and insight. I am also interested in soccer, baseball, cooking, mathematics, Fyodor Dostoyevsky books, and the books of the Bible.</p>
+
