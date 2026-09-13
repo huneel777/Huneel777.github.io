@@ -23,6 +23,8 @@ navbar:
         href: Superpopul_Bootstrap_Lee__2025.pdf
       - text: "Propensity Score Matching"
         href: propensitiy_score_matching.pdf
+      - text: "Adjusting CPS"
+        href: adjusting_CPS.pdf
 
 output:
   html_document:
