@@ -25,6 +25,8 @@ navbar:
         href: propensitiy_score_matching.pdf
       - text: "Adjusting CPS"
         href: adjusting_CPS.pdf
+      - text: "DF MI Boot"
+        href: DF_MI_Boot.pdf
 
 output:
   html_document:
