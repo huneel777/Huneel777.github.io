@@ -15,10 +15,10 @@ navbar:
         href: EIF_Mediation_Lee_2022.pdf
       - text: "DiD_Bayes_Lee_2025.pdf"
         href: DiD_Bayes_Lee_2025.pdf
-      - text: "Weighting_Logit_Lee_2025.pdf"
-        href: Weighting_Logit_Lee_2025.pdf
-      - text: "Weighting_GP_Lee_2025.pdf"
-        href: Weighting_GP_Lee_2025.pdf
+      - text: "Weighting_Logit_Lee_2026.pdf"
+        href: Weighting_Logit_Lee_2026.pdf
+      - text: "Weighting_GP_Lee_2026.pdf"
+        href: Weighting_GP_Lee_2026.pdf
       - text: "Superpopul_Bootstrap_Lee__2025.pdf"
         href: Superpopul_Bootstrap_Lee__2025.pdf
       - text: "Propensity Score Matching"
